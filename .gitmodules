@@ -1,0 +1,18 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/nmacs/zl90-kernel
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/nmacs/zl90-uboot
+[submodule "openwrt"]
+	path = openwrt
+	url = https://github.com/nmacs/zl90-openwrt
+[submodule "openwrt-packages"]
+	path = openwrt-packages
+	url = https://github.com/nmacs/zl90-openwrt-packages
+[submodule "openwrt-luci"]
+	path = openwrt-luci
+	url = https://github.com/nmacs/zl90-openwrt-luci
+[submodule "openwrt-zixlink"]
+	path = openwrt-zixlink
+	url = https://github.com/nmacs/zl90-openwrt-zixlink
