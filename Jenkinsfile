@@ -39,7 +39,7 @@ pipeline {
 	post {
 		success {
 			dir("openwrt/bin/targets/zixlink-zl90/") {
-				archive ("openwrt-zixlink-zl90*")
+				archive ("*zixlink-zl90*")
 			}
 		}
 	}
